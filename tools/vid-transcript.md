@@ -2,7 +2,7 @@
 
 把视频变成可全文检索的文字稿。
 
-[← 返回 Digital Garden](../README.md)
+[← 返回总目录](../README.md)
 
 ---
 
